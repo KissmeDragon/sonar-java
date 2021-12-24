@@ -64,7 +64,7 @@
     <dependency>
       <groupId>org.jdom</groupId>
       <artifactId>jdom2</artifactId>
-      <version>2.0.6</version>
+      <version>2.0.6.1</version>
       <type>jar</type>
       <scope>provided</scope>
     </dependency>
@@ -134,7 +134,7 @@
     <dependency>
       <groupId>com.github.tomakehurst</groupId>
       <artifactId>wiremock</artifactId>
-      <version>2.6.0</version>
+      <version>2.24.1</version>
       <type>jar</type>
       <scope>provided</scope>
     </dependency>
@@ -196,7 +196,7 @@
     <dependency>
       <groupId>org.springframework.security</groupId>
       <artifactId>spring-security-acl</artifactId>
-      <version>5.1.1.RELEASE</version>
+      <version>5.2.9.RELEASE</version>
       <type>jar</type>
       <scope>provided</scope>
     </dependency>
@@ -217,7 +217,7 @@
     <dependency>
       <groupId>org.apache.commons</groupId>
       <artifactId>commons-email</artifactId>
-      <version>1.3.2</version>
+      <version>1.5</version>
       <type>jar</type>
       <scope>provided</scope>
     </dependency>
@@ -243,26 +243,26 @@
     <dependency>
       <groupId>org.springframework.data</groupId>
       <artifactId>spring-data-elasticsearch</artifactId>
-      <version>3.0.8.RELEASE</version>
+      <version>4.3.0</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-web</artifactId>
-      <version>5.0.6.RELEASE</version>
+      <version>5.2.15.RELEASE</version>
       <type>jar</type>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>5.2.3.RELEASE</version>
+      <version>5.2.15.RELEASE</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>com.typesafe.play</groupId>
       <artifactId>play_2.12</artifactId>
-      <version>2.6.14</version>
+      <version>2.7.5</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -280,13 +280,13 @@
     <dependency>
       <groupId>org.springframework.security</groupId>
       <artifactId>spring-security-web</artifactId>
-      <version>5.2.10.RELEASE</version>
+      <version>5.2.11.RELEASE</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>org.springframework.security</groupId>
       <artifactId>spring-security-config</artifactId>
-      <version>5.0.5.RELEASE</version>
+      <version>5.2.9.RELEASE</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -310,7 +310,7 @@
     <dependency>
       <groupId>org.springframework.security</groupId>
       <artifactId>spring-security-crypto</artifactId>
-      <version>5.0.6.RELEASE</version>
+      <version>5.0.16.RELEASE</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -322,7 +322,7 @@
     <dependency>
       <groupId>org.springframework.security</groupId>
       <artifactId>spring-security-core</artifactId>
-      <version>4.2.17.RELEASE</version>
+      <version>5.2.9.RELEASE</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -340,7 +340,7 @@
     <dependency>
       <groupId>org.apache.shiro</groupId>
       <artifactId>shiro-web</artifactId>
-      <version>1.2.3</version>
+      <version>1.8.0</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -353,7 +353,7 @@
     <dependency>
       <groupId>org.apache.maven</groupId>
       <artifactId>maven-plugin-api</artifactId>
-      <version>3.3.3</version>
+      <version>3.8.3</version>
       <type>jar</type>
       <scope>provided</scope>
     </dependency>
@@ -455,7 +455,7 @@
     <dependency>
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
-      <version>7.3.0</version>
+      <version>7.4.0</version>
       <type>jar</type>
       <scope>provided</scope>
     </dependency>
@@ -469,7 +469,7 @@
     <dependency>
       <groupId>org.hibernate</groupId>
       <artifactId>hibernate-core</artifactId>
-      <version>5.0.2.Final</version>
+      <version>5.4.24.Final</version>
       <type>jar</type>
       <scope>provided</scope>
       <exclusions>
@@ -562,7 +562,7 @@
     <dependency>
       <groupId>io.rest-assured</groupId>
       <artifactId>rest-assured</artifactId>
-      <version>3.0.2</version>
+      <version>4.3.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -580,7 +580,7 @@
     <dependency>
       <groupId>org.apache.struts</groupId>
       <artifactId>struts2-core</artifactId>
-      <version>2.5.22</version>
+      <version>2.5.26</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -598,7 +598,7 @@
     <dependency>
       <groupId>org.slf4j</groupId>
       <artifactId>slf4j-ext</artifactId>
-      <version>1.7.21</version>
+      <version>1.7.26</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -628,7 +628,7 @@
     <dependency>
       <groupId>io.vertx</groupId>
       <artifactId>vertx-core</artifactId>
-      <version>3.5.4</version>
+      <version>3.9.4</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -694,19 +694,19 @@
     <dependency>
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-classic</artifactId>
-      <version>1.2.0</version>
+      <version>1.2.7</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-core</artifactId>
-      <version>1.2.0</version>
+      <version>1.2.7</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
       <groupId>commons-codec</groupId>
       <artifactId>commons-codec</artifactId>
-      <version>1.11</version>
+      <version>1.13</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -718,7 +718,7 @@
     <dependency>
       <groupId>com.codeborne</groupId>
       <artifactId>selenide</artifactId>
-      <version>5.1.0</version>
+      <version>5.24.1</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -742,7 +742,7 @@
     <dependency>
       <groupId>org.apache.maven.plugin-tools</groupId>
       <artifactId>maven-plugin-annotations</artifactId>
-      <version>3.6.0</version>
+      <version>3.6.2</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
@@ -754,7 +754,7 @@
     <dependency>
       <groupId>au.com.dius.pact.provider</groupId>
       <artifactId>junit5</artifactId>
-      <version>4.1.0</version>
+      <version>4.3.0</version>
       <scope>provided</scope>
       <exclusions>
         <exclusion>
@@ -772,7 +772,7 @@
     <dependency>
       <groupId>org.apache.wicket</groupId>
       <artifactId>wicket-spring</artifactId>
-      <version>9.1.0</version>
+      <version>9.3.0</version>
       <scope>provided</scope>
     </dependency>
     <dependency>

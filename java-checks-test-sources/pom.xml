@@ -628,7 +628,7 @@
     <dependency>
       <groupId>io.vertx</groupId>
       <artifactId>vertx-core</artifactId>
-      <version>3.9.4</version>
+      <version>4.3.1</version>
       <scope>provided</scope>
     </dependency>
     <dependency>

@@ -243,7 +243,7 @@
     <dependency>
       <groupId>org.springframework.data</groupId>
       <artifactId>spring-data-elasticsearch</artifactId>
-      <version>4.3.0</version>
+      <version>4.4.16</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
